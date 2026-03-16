@@ -12,8 +12,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Ethical Hacking Vulnerability Assessment          | <a href="Ethical_Hacking_A1.pdf">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Active Directory Penetration Test | <a href="Ethical_Hacking_A2.pdf">Detection Lab</a>|
+| Digital Forensics Investigation        |  <a href="Digital_Forensics.pdf">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
