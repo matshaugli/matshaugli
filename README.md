@@ -11,15 +11,45 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Ethical Hacking Vulnerability Assessment          | <a href="Ethical_Hacking_A1.pdf">Vulnerability Assessment & Exploitation Lab</a>|
-| Active Directory Penetration Test | <a href="Ethical_Hacking_A2.pdf">Active Directory Penetration Test</a>|
+| Vulnerability Assessment & Network Enumeration          | <a href="Ethical_Hacking_A1.pdf">Vulnerability Assessment & Exploitation Lab</a>|
+| Active Directory Attacks & Privilege Escalation | <a href="Ethical_Hacking_A2.pdf">Active Directory Penetration Test</a>|
 | Digital Forensics Investigation        |  <a href="Digital_Forensics.pdf">Digital Forensics Investigation</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Offensive Security
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-00457C?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2E2E2E?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLmap-CC2927?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gobuster-FF6F00?&style=for-the-badge" />
+</div>
+
+### Active Directory
+<div>
+    <img src="https://img.shields.io/badge/-BloodHound-B22222?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Impacket-3A3A3A?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Evil--WinRM-6C3483?&style=for-the-badge" />
+</div>
+
+### Digital Forensics
+<div>
+    <img src="https://img.shields.io/badge/-SQLiteBrowser-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" />
+</div>
+
+### Password Cracking
+<div>
+    <img src="https://img.shields.io/badge/-John_the_Ripper-8B0000?&style=for-the-badge" />
+</div>
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
 
 ### Network
 <div>
