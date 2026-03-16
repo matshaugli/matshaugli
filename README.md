@@ -86,3 +86,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 - Ethical Hacking Lab
 - Active Directory Pentest
 - Digital Forensics Investigation
+- Networking Assessment
