@@ -14,18 +14,22 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Vulnerability Assessment & Network Enumeration          | <a href="Ethical_Hacking_A1.pdf">Vulnerability Assessment & Exploitation Lab</a>|
 | Active Directory Attacks & Privilege Escalation | <a href="Ethical_Hacking_A2.pdf">Active Directory Penetration Test</a>|
 | Digital Forensics Investigation        |  <a href="Digital_Forensics.pdf">Digital Forensics Investigation</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
-### Offensive Security
+### Reconnaissance & Enumeration
 <div>
-    <img src="https://img.shields.io/badge/-Nmap-00457C?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-2E2E2E?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLmap-CC2927?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Gobuster-FF6F00?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-FFUF-3A3A3A?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Nessus-00ADEF?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Nikto-7A1FA2?&style=for-the-badge" />
+</div>
+
+### Exploitation
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-2E2E2E?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-SQLmap-CC2927?&style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
 
 ### Active Directory
@@ -37,12 +41,21 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ### Digital Forensics
 <div>
+    <img src="https://img.shields.io/badge/-Autopsy-2E2E2E?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-RegRipper-4B275F?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-SQLiteBrowser-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" />
+</div>
+
+### Network Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NetworkMiner-FF6F00?&style=for-the-badge" />
 </div>
 
 ### Password Cracking
 <div>
     <img src="https://img.shields.io/badge/-John_the_Ripper-8B0000?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Fcrackzip-444444?&style=for-the-badge" />
 </div>
 
 ### Operating Systems
@@ -51,26 +64,17 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Techniques & Attacks
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+- SQL Injection
+- SMB Exploitation (EternalBlue)
+- LDAP Enumeration
+- AS-REP Roasting
+- Kerberoasting
+- Pass-the-Hash
+- DCSync
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
+<!--
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
@@ -80,7 +84,9 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
+-->
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Ethical Hacking Lab
+- Active Directory Pentest
+- Digital Forensics Investigation
