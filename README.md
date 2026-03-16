@@ -14,7 +14,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Vulnerability Assessment & Network Enumeration          | <a href="Ethical_Hacking_A1.pdf">Vulnerability Assessment & Exploitation Lab</a>|
 | Active Directory Attacks & Privilege Escalation | <a href="Ethical_Hacking_A2.pdf">Active Directory Penetration Test</a>|
 | Digital Forensics Investigation        |  <a href="Digital_Forensics.pdf">Digital Forensics Investigation</a>|
-| Networking Assessment        |  <a href="Digital_Forensics.pdf">Digital Forensics Investigation</a>|
+| Routing & Switching Assessment        |  <a href="https://github.com/matshaugli/Networking_Assessment.git">Networking Asessment</a>|
 
 
 ## Tools
