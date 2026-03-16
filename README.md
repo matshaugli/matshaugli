@@ -87,4 +87,3 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 - [Active Directory Pentest](Ethical_Hacking_A2.pdf)
 - [Digital Forensics Investigation](Digital_Forensics.pdf)
 - [Networking Assessment](https://github.com/matshaugli/Networking_Assessment.git)
-- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
