@@ -11,7 +11,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Assessment & Network Enumeration          | <a href="Ethical_Hacking_A1.pdf">Vulnerability Assessment & Exploitation Lab</a>|
+| Vulnerability Assessment & Network Enumeration          | <a href="https://github.com/matshaugli/Vulnerability-Assessment-Exploitation-Lab.git">Vulnerability Assessment & Exploitation Lab</a>|
 | Active Directory Attacks & Privilege Escalation | <a href="https://github.com/matshaugli/Active-Directory-Attacks-Privilege-Escalation.git">Active Directory Penetration Test</a>|
 | Digital Forensics Investigation        |  <a href="https://github.com/matshaugli/Digital-Forensics-Investigation">Digital Forensics Investigation</a>|
 | Routing & Switching Assessment        |  <a href="https://github.com/matshaugli/Networking-Assessment.git">Networking Assessment</a>|
@@ -83,7 +83,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </a>
 
 ## Projects
-- [Ethical Hacking Lab](Ethical_Hacking_A1.pdf)
-- [Active Directory Pentest](Ethical_Hacking_A2.pdf)
-- [Digital Forensics Investigation](Digital_Forensics.pdf)
+- [Ethical Hacking Lab](https://github.com/matshaugli/Vulnerability-Assessment-Exploitation-Lab.git)
+- [Active Directory Pentest](https://github.com/matshaugli/Active-Directory-Attacks-Privilege-Escalation.git)
+- [Digital Forensics Investigation](https://github.com/matshaugli/Digital-Forensics-Investigation)
 - [Networking Assessment](https://github.com/matshaugli/Networking-Assessment.git)
