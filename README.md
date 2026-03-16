@@ -83,7 +83,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </a>
 
 ## Projects
-- Ethical Hacking Lab
-- Active Directory Pentest
-- Digital Forensics Investigation
-- Networking Assessment
+- [Ethical Hacking Lab](Ethical_Hacking_A1.pdf)
+- [Active Directory Pentest](Ethical_Hacking_A2.pdf)
+- [Digital Forensics Investigation](Digital_Forensics.pdf)
+- [Networking Assessment](
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
